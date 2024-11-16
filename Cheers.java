@@ -23,7 +23,7 @@ public class Cheers {
         }
         System.out.println("What does that spell?");
         for (int v = 0; v < number; v++) {
-                System.out.println(w + " ! ! !");
+                System.out.println(w + "!!!");
             
         }
 
