@@ -18,7 +18,7 @@ public class Cheers {
                 if (TF==true) {
                         System.out.println("Give me an " + w.charAt(i) + ": " + w.charAt(i) + "!");
                 } else {
-                        System.out.println("Give me a " +  w.charAt(i) + ": " + w.charAt(i) + "!"); 
+                        System.out.println("Give me a  " +  w.charAt(i) + ": " + w.charAt(i) + "!"); 
                         }    
         }
         System.out.println("What does that spell?");
